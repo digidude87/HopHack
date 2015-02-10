@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Guide</string>
+    <string name="action_settings">Settings</string>
+    <string name="host_slogan">Howdy Captain! Get you compass ready</string>
+    <string name="navigator">Navigator</string>
+    <string name="confused">Confused Friend</string>
+    <string name="title_activity_host_navigator">HostNavigator</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_confused_friend">ConfusedFriend</string>
+    <string name="title_activity_draw">DrawActivity</string>
+
+</resources>

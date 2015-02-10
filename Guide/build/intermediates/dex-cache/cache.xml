@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="G:\java_pr\HopHacks\Guide\app\build\intermediates\exploded-aar\com.google.android.gms\play-services\6.5.87\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="dd9247ea0fabe8ee479638c4b4a23e93752be256">
+        <dex dex="G:\java_pr\HopHacks\Guide\app\build\intermediates\pre-dexed\debug\classes-dcbe762fbe23cf16c96f089a376cdd237ba3f089.jar" />
+    </item>
+    <item
+        jar="G:\java_pr\HopHacks\Guide\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="G:\java_pr\HopHacks\Guide\app\build\intermediates\pre-dexed\debug\classes-304364206afc4106a440790c3700bd970d64282c.jar" />
+    </item>
+    <item
+        jar="C:\Users\Croma\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.3\support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="G:\java_pr\HopHacks\Guide\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.3-9bc82f4a4d9f45c6eaa175b4ca03ab9da3189cfa.jar" />
+    </item>
+    <item
+        jar="G:\java_pr\HopHacks\Guide\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="G:\java_pr\HopHacks\Guide\app\build\intermediates\pre-dexed\debug\classes-ad662dd0137b056715933f41d572dc652ad387c8.jar" />
+    </item>
+    <item
+        jar="G:\java_pr\HopHacks\Guide\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\libs\internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="G:\java_pr\HopHacks\Guide\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-658aa3b61c00688201b09cf61a9566277dac7135.jar" />
+    </item>
+    <item
+        jar="G:\java_pr\HopHacks\Guide\app\libs\dropbox-sync-sdk-android.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="45fb26781bc311772660c697996801f8f39d3ce0">
+        <dex dex="G:\java_pr\HopHacks\Guide\app\build\intermediates\pre-dexed\debug\dropbox-sync-sdk-android-ae841de66ddb78be277493c8cc8ca22d5bce8de5.jar" />
+    </item>
+
+</items>
